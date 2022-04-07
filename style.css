@@ -1,0 +1,12 @@
+.produtos-moda th{
+    background-color: #BB86FC;
+}
+
+.produtos-moda td, .produtos-casa td {
+    background-color: #424250;
+    color: white;
+}
+
+.produtos-casa th{
+    background-color: #00C4B4;
+}
